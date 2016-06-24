@@ -1,3 +1,4 @@
+[![Stories in Ready](https://badge.waffle.io/wensontsai/love-jones.png?label=ready&title=Ready)](https://waffle.io/wensontsai/love-jones)
 # Love Jones
 Webpack, React/Redux, Node/Express.
 User auth with JSON Web Tokens, and store-wide notifications system.
